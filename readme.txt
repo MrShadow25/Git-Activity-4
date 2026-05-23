@@ -8,7 +8,7 @@ OWNER: Cyril James P. Cuevas (MrShadow25)
     2. Documenting owner activity logs.
     3. Simulating and resolving the file merge conflict.
 
-COLLABORATOR: [Pangalan ni Sinbringer14] (Sinbringer14)
+COLLABORATOR: Jadulco Jerickson (Sinbringer14)
   - Tasks Assigned:
     1. Accepting repository invitation and setting up local system.
     2. Documenting collaborator activity logs.
