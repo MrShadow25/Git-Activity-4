@@ -1,0 +1,8 @@
+ACTIVITY 4 - INDIVIDUAL TASK LOG
+OWNER: MrShadow25
+ROLE: Repository Manager / Lead Developer
+
+CONTRIBUTION DETAILS:
+- Initialized the main Git repository base structure.
+- Set up project tracking issues and group documentation framework.
+- Managed branch isolation, clean integration, and merge execution.
