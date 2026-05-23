@@ -1,0 +1,9 @@
+
+ACTIVITY 4 - INDIVIDUAL TASK LOG
+MEMBER: Sinbringer14
+ROLE: Collaborator
+
+CONTRIBUTION DETAILS:
+- Successfully created and initialized the 'task-sinbringer' feature branch.
+- Created individual task file for Git alignment verification.
+- Documented progress status to satisfy laboratory rubric guidelines.
